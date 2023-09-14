@@ -1,0 +1,16 @@
+{
+    "name": "Snowraph.VFXSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7589334953ac49f40b26b13512bf8d78"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "com.snowraph.vfxsystem",
+  "version": "1.0.1",
+  "displayName": "[SNOWRAPH] VFXSystem",
+  "description": "A package to play VFX",
+  "unity": "2020.3",
+  "author": {
+    "name": "snowraph",
+    "email": "snowraph.auger@gmail.com",
+    "url": ""
+  },
+  "dependencies": {
+    "com.snowraph.gamesystems": "1.0.1"
+  }
+}
